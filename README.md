@@ -83,10 +83,3 @@ KEY OUTCOMES:
 * Tree-based models outperformed linear regression
 
 * The approach effectively captures ride demand trends
-
-FUTURE IMPROVEMENTS:
-* Incorporate external factors (weather, holidays, events)
-
-* Apply time-series-specific models (ARIMA, LSTM)
-
-* Deploy the model as a real-time prediction API
