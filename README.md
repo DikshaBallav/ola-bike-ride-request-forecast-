@@ -29,8 +29,6 @@ TECHNOLOGIES AND LIBRARIES USED:
 
 * XGBoost – Advanced regression
 
-* Pickle – Model saving
-
 PROJECT WORKFLOW:
 1) Data Loading & Exploration
 
@@ -78,10 +76,6 @@ Models were evaluated using:
 * R² Score
 
 These metrics measure prediction accuracy and model reliability.
-
-MODEL SAVING:
-* The trained model was saved using Pickle
-* Enables reuse of the model without retraining
 
 KEY OUTCOMES:
 * Time-based features significantly improved demand prediction
