@@ -71,6 +71,7 @@ MODELS IMPLEMENTED:
 * Designed to improve prediction accuracy on structured data
 
 MODEL EVALUATION METRICS:
+
 Models were evaluated using:
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
