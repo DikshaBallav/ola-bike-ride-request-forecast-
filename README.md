@@ -75,6 +75,7 @@ Models were evaluated using:
 * Mean Absolute Error (MAE)
 * Mean Squared Error (MSE)
 * R² Score
+
 These metrics measure prediction accuracy and model reliability.
 
 MODEL SAVING:
